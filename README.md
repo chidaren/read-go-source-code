@@ -1,1 +1,1 @@
-Record my thinking
+reading notes
