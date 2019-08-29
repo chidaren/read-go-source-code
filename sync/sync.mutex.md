@@ -1,4 +1,4 @@
-### sync.mutex 源码解析
+### sync.Mutex 源码解析
 
 ```go
 

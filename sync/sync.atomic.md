@@ -1,4 +1,4 @@
-### sync.atomic 源码分析
+### sync.Atomic 源码分析
 
 ``` go
 
